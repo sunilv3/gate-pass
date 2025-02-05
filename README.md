@@ -31,15 +31,4 @@ To run Passito, ensure you have the following installed:
 - **Apache**: Web server to host the application.
 - **PHP**: Version 8.0 or above.
 
-## Installation
 
-### Ensure Group Ownership is Correct
-
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit issues or pull requests to improve the project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
